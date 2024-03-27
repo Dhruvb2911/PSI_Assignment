@@ -3,11 +3,6 @@
 ## Overview
 This project is a solution to the Full Stack Developer Intern assignment, consisting of debugging a JavaScript codebase and implementing new features.
 
-## Installation
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the project directory: `cd full-stack-intern-assignment`
-3. Open `hello.html` in a web browser.
-
 ## Usage
 - View the list of users fetched from a simulated API call.
 - Add new users using the provided form.
